@@ -43,3 +43,13 @@ To objectively measure the efficiency of this layout, it was analyzed and compar
 The data shows a massive improvement in home-row usage and overall finger effort compared to QWERTY. The score for **Same-Finger Bigrams** appears high as a result of an intentional design trade-off: to make the layout easier to learn for QWERTY users, some finger assignments were preserved, which also preserves some of QWERTY's inherent inefficiencies.
 
 Furthermore, these analyzers use standard English prose for their calculations, and do not fully capture the unique typing patterns of programming or constant Vim navigation, which are the primary use cases for Cadence.
+
+## Feedback & Contributing
+
+Have you tried Cadence? I would love to hear about your experience. All feedback is welcomed, but I'm particularly interested in:
+
+* Your typing background (QWERTY, Colemak, etc.).
+* Any awkward or uncomfortable finger movements you've noticed.
+* Your experience using it for programming languages vs. regular prose.
+
+The best way to provide feedback is by **opening an issue** on GitHub.

@@ -2,8 +2,6 @@
 
 An ergonomic layout for columnar keyboards, designed for a natural typing rhythm and efficient Vim navigation.
 
----
-
 ## The Layout
 
 ![Keyboard Layout Image](cadence.jpg)
@@ -16,15 +14,11 @@ An ergonomic layout for columnar keyboards, designed for a natural typing rhythm
 - **Pianist-Inspired Agility:** Leverages strong, independent pinkies by placing frequent letters like `n` in their natural path.
 - **Ease of Transition:** Aims to be easy to adopt for QWERTY users by keeping many letters on the same fingers.
 
----
-
 ## A Pragmatic Approach
 
 This layout does not aim to be the _most_ ergonomic layout, and it will likely be less efficient for general prose than giants like Dvorak or Colemak.
 
 Instead, Cadence aims to be a significant improvement over QWERTY for those who live in a terminal and use Vim motions extensively, while drastically lowering the learning curve. As an example, while I average 90 WPM in QWERTY, it took me only 3 days to reach 30 WPM in Cadence, and two weeks to reach a comfortable 60 WPM.
-
----
 
 ## Performance Metrics
 

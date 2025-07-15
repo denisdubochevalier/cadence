@@ -22,13 +22,15 @@ Instead, Cadence aims to be a significant improvement over QWERTY for those who 
 
 ## Performance Metrics
 
-To objectively measure the efficiency of this layout, it was analyzed and compared against QWERTY and Colemak-DH using a standard English text corpus.
+To objectively measure the efficiency of this layout, it was analyzed and compared against QWERTY, Dvorak, Workman and Colemak-DH using a standard English text corpus.
 
-| Metric                  | QWERTY | Colemak-DH |  Cadence   |
-| ----------------------- | :----: | :--------: | :--------: |
-| **Home Row Usage**      | 27.8%  |   50.6%    | **50.0%**  |
-| **Same-Finger Bigrams** | 6.575% |   1.669%   | **7.331%** |
-| **Finger Effort**       | 2.446  |   1.726    | **1.960**  |
+| Metric                   | QWERTY | Dvorak | Workman | Colemak-DH |  Cadence   |
+| ------------------------ | :----: | :----: | :-----: | :--------: | :--------: |
+| **Home Row Usage**       | 32.30% | 67.85% | 65.65%  |   67.70%   | **65.20%** |
+| **Same-Finger Bigrams**  | 4.39%  | 1.87%  |  1.97%  |   0.91%    | **4.50%**  |
+| **Skip Bigrams (2u)**    | 1.43%  | 0.45%  |  0.60%  |   0.41%    | **0.33%**  |
+| **Last Stretch Bigrams** | 4.55%  | 0.80%  |  1.11%  |   1.27%    | **0.35%**  |
+| **Scissors**             | 1.46%  | 0.08%  |  0.47%  |   0.15%    | **0.41%**  |
 
 ![Heatmap](heatmap.jpg)
 
@@ -38,12 +40,20 @@ The data shows a massive improvement in home-row usage and overall finger effort
 
 Furthermore, these analyzers use standard English prose for their calculations, and do not fully capture the unique typing patterns of programming or constant Vim navigation, which are the primary use cases for Cadence.
 
+**Sources:**
+
+- [QWERTY](https://cyanophage.github.io/playground.html?layout=qwertyuiop-asdfghjkl%3B%27zxcvbnm%2C.%2F%5C%5E&mode=ergo&lan=english&thumb=l)
+- [Dvorak](https://cyanophage.github.io/playground.html?layout=%27%2C.pyfgcrl%2Faoeuidhtns-%3Bqjkxbmwvz%5C%5E&mode=ergo&lan=english&thumb=l)
+- [Workman](https://cyanophage.github.io/playground.html?layout=qdrwbjfup%3B-ashtgyneoi%27zxmcvkl%2C.%2F%5C%5E&mode=ergo&lan=english&thumb=l)
+- [Colemak-DH](https://cyanophage.github.io/playground.html?layout=qwfpbjluy%3B-arstgmneio%27zxcdvkh%2C.%2F%5C%5E&mode=ergo&lan=english&thumb=l)
+- [Cadence](https://cyanophage.github.io/playground.html?layout=pwdfz%2Fmygq-aset%2C.iron%27bucv%3Bxhjkl%5C%5E&mode=ergo&lan=english&thumb=l)
+
 ## Feedback & Contributing
 
 Have you tried Cadence? I would love to hear about your experience. All feedback is welcomed, but I'm particularly interested in:
 
-* Your typing background (QWERTY, Colemak, etc.).
-* Any awkward or uncomfortable finger movements you've noticed.
-* Your experience using it for programming languages vs. regular prose.
+- Your typing background (QWERTY, Colemak, etc.).
+- Any awkward or uncomfortable finger movements you've noticed.
+- Your experience using it for programming languages vs. regular prose.
 
 The best way to provide feedback is by **opening an issue** on GitHub.

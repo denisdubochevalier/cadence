@@ -24,7 +24,7 @@ Instead, Cadence aims to be a significant improvement over QWERTY for those who 
 
 To objectively measure the efficiency of this layout, it was analyzed and compared against QWERTY, Dvorak, Workman and Colemak-DH using a standard English text corpus.
 
-| Metric                   | QWERTY | Dvorak | Workman | Colemak-DH | Cadence v1.0.1 | Cadence v1.1.1 |
+| Metric                   | QWERTY | Dvorak | Workman | Colemak-DH | Cadence v0.0.1 | Cadence v1.1.1 |
 | ------------------------ | :----: | :----: | :-----: | :--------: | :------------: | :------------: |
 | **Home Row Usage**       | 32.30% | 67.85% | 65.65%  |   67.70%   |     65.20%     |   **65.20%**   |
 | **Same-Finger Bigrams**  | 4.39%  | 1.87%  |  1.97%  |   0.91%    |     4.50%      |   **3.35%**    |

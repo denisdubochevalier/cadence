@@ -24,13 +24,13 @@ Instead, Cadence aims to be a significant improvement over QWERTY for those who 
 
 To objectively measure the efficiency of this layout, it was analyzed and compared against QWERTY, Dvorak, Workman and Colemak-DH using a standard English text corpus.
 
-| Metric                   | QWERTY | Dvorak | Workman | Colemak-DH | Cadence v0.0.1 | Cadence v1.1.1 |
-| ------------------------ | :----: | :----: | :-----: | :--------: | :------------: | :------------: |
-| **Home Row Usage**       | 32.30% | 67.85% | 65.65%  |   67.70%   |     65.20%     |   **65.20%**   |
-| **Same-Finger Bigrams**  | 4.39%  | 1.87%  |  1.97%  |   0.91%    |     4.50%      |   **3.35%**    |
-| **Skip Bigrams (2u)**    | 1.43%  | 0.45%  |  0.60%  |   0.41%    |     0.33%      |   **0.36%**    |
-| **Last Stretch Bigrams** | 4.55%  | 0.80%  |  1.11%  |   1.27%    |     0.35%      |   **0.33%**    |
-| **Scissors**             | 1.46%  | 0.08%  |  0.47%  |   0.15%    |     0.41%      |   **0.09%**    |
+| Metric                   | QWERTY | Dvorak | Workman | Colemak-DH | Cadence v0.0 | Cadence v1.1 |
+| ------------------------ | :----: | :----: | :-----: | :--------: | :----------: | :----------: |
+| **Home Row Usage**       | 32.30% | 67.85% | 65.65%  |   67.70%   |    65.20%    |  **65.20%**  |
+| **Same-Finger Bigrams**  | 4.39%  | 1.87%  |  1.97%  |   0.91%    |    4.50%     |  **3.35%**   |
+| **Skip Bigrams (2u)**    | 1.43%  | 0.45%  |  0.60%  |   0.41%    |    0.33%     |  **0.36%**   |
+| **Last Stretch Bigrams** | 4.55%  | 0.80%  |  1.11%  |   1.27%    |    0.35%     |  **0.33%**   |
+| **Scissors**             | 1.46%  | 0.08%  |  0.47%  |   0.15%    |    0.41%     |  **0.09%**   |
 
 ![Heatmap](heatmap.jpg)
 
@@ -46,8 +46,8 @@ Furthermore, these analyzers use standard English prose for their calculations, 
 - [Dvorak](https://cyanophage.github.io/playground.html?layout=%27%2C.pyfgcrl%2Faoeuidhtns-%3Bqjkxbmwvz%5C%5E&mode=ergo&lan=english&thumb=l)
 - [Workman](https://cyanophage.github.io/playground.html?layout=qdrwbjfup%3B-ashtgyneoi%27zxmcvkl%2C.%2F%5C%5E&mode=ergo&lan=english&thumb=l)
 - [Colemak-DH](https://cyanophage.github.io/playground.html?layout=qwfpbjluy%3B-arstgmneio%27zxcdvkh%2C.%2F%5C%5E&mode=ergo&lan=english&thumb=l)
-- [Cadence v0.0.1](https://cyanophage.github.io/playground.html?layout=pwdfz%2Fmygq-aset%2C.iron%27bucv%3Bxhjkl%5C%5E&mode=ergo&lan=english&thumb=l)
-- [Cadence v1.1.1](https://cyanophage.github.io/playground.html?layout=pwcfz%2Fmygq-aset%2C.rion%27ubdv%3Bxhjkl%5C%5E&mode=ergo&lan=english&thumb=l)
+- [Cadence v0.0](https://cyanophage.github.io/playground.html?layout=pwdfz%2Fmygq-aset%2C.iron%27bucv%3Bxhjkl%5C%5E&mode=ergo&lan=english&thumb=l)
+- [Cadence v1.1](https://cyanophage.github.io/playground.html?layout=pwcfz%2Fmygq-aset%2C.rion%27ubdv%3Bxhjkl%5C%5E&mode=ergo&lan=english&thumb=l)
 
 ## Feedback & Contributing
 
